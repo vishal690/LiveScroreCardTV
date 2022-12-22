@@ -1,0 +1,29 @@
+class GlobalData {
+  static String baseLineDisplay = '';
+  static String out_zone_id = '';
+  static String batsman = '';
+  static String bowler = '';
+  static String prev_ball = '';
+  static String prev_ball_tag = 'Previous Ball';
+  static String consecutive_flag = '';
+  static String curr_team_playing_and_inn = '';
+  static String i1 = '';
+  static String i2 = '';
+  static String i3 = '';
+  static String t1_prob = '';
+  static String t2_prob = '';
+  static String innings = '';
+  static String curr_score = "";
+  static String overs = '';
+  static String run_bat = '';
+  static String ball_bat = '';
+  static String run_bowl = '';
+  static String ball_bowl = '';
+  static String wick_bowl = '';
+  static String team1name = 'अपनी गली';
+  static String team2name = 'बाजू गली';
+  static String staticLine1 = 'Active Outzone';
+  static String staticLine2 = '<--किसका पलड़ा भारी-->';
+  static double team1_prob = 0;
+  static double team2_prob = 0;
+}
