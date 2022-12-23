@@ -3,9 +3,11 @@ import '../Utility/HttpClientHelper.dart';
 import '../Utility/UrlConfi.dart';
 
 class ApiObject {
+  static get matchCode => GlobalData.matchCode;
+
   static void setScoreCardValues(var state) async {
     var api = UrlConfig.APIURL;
-    var obj = await HttpClientHelper.Get("$api");
+    var obj = await HttpClientHelper.Get("$api/$matchCode");
 
     state(
       () {

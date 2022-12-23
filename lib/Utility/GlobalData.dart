@@ -26,4 +26,5 @@ class GlobalData {
   static String staticLine2 = '<--किसका पलड़ा भारी-->';
   static double team1_prob = 0;
   static double team2_prob = 0;
+  static String matchCode = '';
 }

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tvproject/Screens/LaunchScreen.dart';
 import 'Screens/ScoreCardDisplay.dart';
 
 void main() {
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: MyLaunchPage(),
+        home: LaunchScreen(),
         debugShowCheckedModeBanner: false);
   }
 }
