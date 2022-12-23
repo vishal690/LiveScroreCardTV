@@ -1,16 +1,12 @@
 # tvproject
 
-A new Flutter project.
+### A new Flutter project.
+### To make box cricket automatic and more engaging, developed apps to present live scores on Android TV and Mobile, for highlights and for score capturing, decision per ball and many other features.
 
-## Getting Started
+# ScreenShort
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2022-12-23 145959](https://user-images.githubusercontent.com/100077067/209310732-d7a0facb-bad3-45fa-bc85-ae0bfea6cde1.jpg)
+![Screenshot 2022-12-23 150032](https://user-images.githubusercontent.com/100077067/209310725-495a2006-20df-46ea-a7e2-57f33c19d606.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
